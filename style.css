@@ -1,0 +1,50 @@
+h1 {
+  color: red;
+  background-color: cyan;
+  border: 2px dashed blue;
+  padding: 50px;
+  margin: 25px;
+  width: 200px;
+}
+
+p {
+  color: blue;
+  background-color: lime;
+  border: 5px solid red;
+  padding: 10px;
+  width: 300px;
+}
+
+ul {
+  background-color: darkorange;
+  width: 400px;
+}
+
+li {
+  background-color: magenta;
+  color: white;
+  border: 3px dashed white;
+  width: 100px;
+  padding: 20px;
+  margin: 10px;
+}
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma");
+
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma|Indie+Flower");
+
+
+h1 {
+  font-family: Baloo Tamma;
+}
+
+li {
+  font-family: Indie Flower;
+}
+
+p {
+  font-family: sans-serif;
+}
+body {
+    background-image: url("https://designshack.net/wp-content/uploads/STDS-11.jpg");
+    background-repeat: repeat-y;
+}
