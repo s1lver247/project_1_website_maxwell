@@ -15,8 +15,19 @@ p {
   font-family: sans-serif;
 }
 body {
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/34/Tiled_brick_pattern.jpg');
-    background-repeat: repeat-x;
-    background-repeat: repeat-y;
+    background-image: url('http://aislian.org/tiling.gif');
+    background-repeat: repeat;
     background-attachment: fixed;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#awesome_div {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: paleturquoise;
 }
