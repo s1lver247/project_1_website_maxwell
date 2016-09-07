@@ -14,20 +14,23 @@ li {
 p {
   font-family: sans-serif;
 }
-body {
-    background-image: url('http://aislian.org/tiling.gif');
-    background-repeat: repeat;
-    background-attachment: fixed;
+{
+    background:url("https://fbi.dek-d.com/pic_warning.gif");
+    background-repeat: no-repeat;
+    padding:35px;
+    background-origin: content-box;
 }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+body {
+    background-image: url("https://fbi.dek-d.com/pic_warning.gif");
+}
+h1 {
+  color: red;
 }
 
-#awesome_div {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: paleturquoise;
+h3 {
+  color: green;
+}
+
+p {
+  color: blue;
 }
