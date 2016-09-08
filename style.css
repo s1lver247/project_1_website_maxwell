@@ -15,13 +15,13 @@ p {
   font-family: sans-serif;
 }
 {
-    background:url("https://fbi.dek-d.com/pic_warning.gif");
+    background:url("http://bgrepeat.com/im/picture.jpg");
     background-repeat: no-repeat;
     padding:35px;
     background-origin: content-box;
 }
 body {
-    background-image: url("https://fbi.dek-d.com/pic_warning.gif");
+    background-image: url("http://bgrepeat.com/im/picture.jpg");
 }
 h1 {
   color: red;
