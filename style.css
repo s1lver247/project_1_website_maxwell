@@ -14,23 +14,16 @@ li {
 p {
   font-family: sans-serif;
 }
-{
-    background:url("http://bgrepeat.com/im/picture.jpg");
-    background-repeat: no-repeat;
-    padding:35px;
-    background-origin: content-box;
-}
-body {
-    background-image: url("http://bgrepeat.com/im/picture.jpg");
+html {
+  background: url(http://thewebmadeeasy.com/AtomsNetwork/Files/332/backgroundrepeat_rendered01.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 h1 {
-  color: red;
+  color: yellow;
 }
-
-h3 {
-  color: green;
-}
-
 p {
-  color: blue;
+  color: lime;
 }
