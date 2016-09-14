@@ -23,6 +23,11 @@ html {
 }
 h1 {
   color: yellow;
+  background-color: maroon;
+  border: 2px dashed silver;
+  padding: 50px;
+  margin: 25px;
+  width: 200px;
 }
 p {
   color: lime;
